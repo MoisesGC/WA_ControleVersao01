@@ -1,4 +1,4 @@
 Este e um arquivo de exemplo para o WebAcademy
 Estou na primeira versao dele!
 Estou na segunda versao do arquivo - coloquei mais conteudo!
-Estou empolgado com esse negocio de git!
+Agora sim vou fazer uma nova funcao!
