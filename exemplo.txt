@@ -6,3 +6,4 @@ Adicionar mais um api de suporte!
 Fiz uma modificacao incerta...
 Fiz uns ajustes para conectar com o BD
 Fiz um bug fix relacionado a feat01
+Fiz um bug fix relacionado a feat03
