@@ -4,3 +4,4 @@ Estou na segunda versao do arquivo - coloquei mais conteudo!
 Agora sim vou fazer uma nova funcao!
 Adicionar mais um api de suporte!
 Fiz uma modificacao incerta...
+Fiz uns ajustes para conectar com o BD
