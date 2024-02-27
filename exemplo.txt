@@ -5,3 +5,4 @@ Agora sim vou fazer uma nova funcao!
 Adicionar mais um api de suporte!
 Fiz uma modificacao incerta...
 Fiz um bug fix relacionado a feat01
+Fiz um bug fix relacionado a feat03
