@@ -1,0 +1,4 @@
+Nova feature adicionada
+Vai incrementar a quantidade de opcoes de produtos
+Todos vão ficar interessados nela!
+https://stackoverflow.com/questions/44549733/how-to-use-visual-studio-code-as-the-default-editor-for-git-mergetool-including

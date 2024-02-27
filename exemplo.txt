@@ -3,3 +3,4 @@ Estou na primeira versao dele!
 Estou na segunda versao do arquivo - coloquei mais conteudo!
 Agora sim vou fazer uma nova funcao!
 Adicionar mais um api de suporte!
+Fiz uma modificacao incerta...
