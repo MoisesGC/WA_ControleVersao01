@@ -8,3 +8,4 @@ Fiz uns ajustes para conectar com o BD
 Fiz um bug fix relacionado a feat01
 Fiz um bug fix relacionado a feat03
 Melhoria na funcionalidade do core user
+Uma nova feature
